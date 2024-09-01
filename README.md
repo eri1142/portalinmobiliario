@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# portalinmobiliario
+Extracción de propiedades en portal inmobiliario
+=======
+>>>>>>> ab9aab6c (Corrección error de branch en git)
 # Proyecto de Extracción y Análisis de Datos del Portal Inmobiliario
 
 Este proyecto está diseñado para extraer, procesar y analizar datos de propiedades disponibles para arriendo en Concepción, Biobío, utilizando Python.
@@ -69,3 +76,7 @@ Este proyecto está diseñado para extraer, procesar y analizar datos de propied
 - Limpia y transforma los datos.
 - Realiza análisis y genera reportes.
 
+<<<<<<< HEAD
+=======
+>>>>>>> 2fd8d38b (Initial commit with data scraper for Portal Inmobiliario)
+>>>>>>> ab9aab6c (Corrección error de branch en git)
