@@ -25,10 +25,10 @@ PortalInmobiliario/
 ├── data/
 │   ├── raw/                # Datos crudos directamente extraídos del sitio web
 │   ├── processed/          # Datos procesados o limpios listos para el análisis
-│   ├── interim/            # Datos intermedios, transformaciones que aún no están listas paraanálisis
+│   ├── interim/            # Datos intermedios, transformaciones que aún no están listas para análisis
 │   └── external/           # Datos de fuentes externas, si aplica
 │
-├── notebooks/              # Notebooks de Jupyter para análisis, EDA (Exploratory Data Analysis),etc.
+├── notebooks/              # Notebooks de Jupyter para análisis, EDA (Exploratory Data Analysis), etc.
 │   ├── scraping.ipynb      # Notebook para probar y desarrollar el código de scraping
 │   ├── cleaning.ipynb      # Notebook para el procesamiento y limpieza de los datos
 │   └── analysis.ipynb      # Notebook para el análisis de los datos
@@ -60,6 +60,7 @@ PortalInmobiliario/
 ├── README.md               # Documentación básica del proyecto
 └── .gitignore              # Archivos y carpetas a ignorar por git
 ```
+
 
 ## Configuración
 
