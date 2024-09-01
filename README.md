@@ -17,7 +17,7 @@ Este proyecto está diseñado para extraer, procesar y analizar datos de propied
 - **`logs/`**: Archivos de logs generados durante la ejecución del proyecto.
 - **`report**s/`: Reportes generados del análisis de datos.
 
-# Plano de Proyecto
+## Plano de Proyecto
 
 ```
 PortalInmobiliario/
@@ -60,6 +60,7 @@ PortalInmobiliario/
 ├── README.md               # Documentación básica del proyecto
 └── .gitignore              # Archivos y carpetas a ignorar por git
 ```
+
 
 
 ## Configuración
